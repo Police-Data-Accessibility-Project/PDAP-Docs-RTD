@@ -1,1 +1,6 @@
 pip==20.1.1
+Sphinx==3.5.3
+Pygments==2.8.1
+docutils==0.17
+sphinx-rtd-theme==0.5.1
+myst-parser==0.13.5
