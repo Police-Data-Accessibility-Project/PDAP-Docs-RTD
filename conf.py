@@ -22,7 +22,7 @@ copyright = '2021, Police Data Accessibility Project'
 author = 'Police Data Accessibility Project'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -60,3 +60,17 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
 }
+
+html_css_files = [
+    'css/s5defs-roles.css',
+    'css/fonts.css',
+]
+
+# include s5defs for colored text in the beginning of every file
+rst_prolog = """
+.. role:: highlight-red
+.. role:: highlight-orange
+.. role:: highlight-yellow
+.. role:: highlight-green
+.. role:: subheader
+"""

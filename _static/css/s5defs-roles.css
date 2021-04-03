@@ -1,0 +1,32 @@
+/*
+    custom roles
+    you can use these in the .rst like so:
+    :highlight-red:`text you want red`
+*/
+.highlight-red{
+    background-color: #f4cccc;
+}
+.highlight-orange{
+    background-color: #fce5cd;
+}
+
+.highlight-yellow{
+    background-color: #fff2cc;
+}
+
+.highlight-green{
+    background-color: #d9ead3;
+}
+
+.subheader{
+    color: #666666;
+    font-style: italic;
+    font-weight: 600;
+}
+
+/*
+ Roboto Mono Font for headers
+*/
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Mono', monospace;
+}

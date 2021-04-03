@@ -2,9 +2,7 @@
 PDAP A-1: Collect public police data
 ====================================
 
--------------------------------------------------------------------------------------------------------------
-Data is made public to some extent by up to 18,000 different police organizations, and must be consolidated.
--------------------------------------------------------------------------------------------------------------
+:subheader:`Data is made public to some extent by up to 18,000 different police organizations, and must be consolidated.`
 
 Overview
 ========

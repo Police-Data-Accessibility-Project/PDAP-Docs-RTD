@@ -29,7 +29,7 @@ It’s also a way to power parts of the site: a front end app could consume part
 Basic usage
 ===========
 Here’s how to make queries in SPL, Splunk’s proprietary searching language.
-**Sample query: **
+**Sample query: ** 
 ::
 
     index=nibrs source="hatecrimes.csv" incident_date="12-SEP-01"
