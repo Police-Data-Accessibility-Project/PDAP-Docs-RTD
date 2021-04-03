@@ -1,0 +1,41 @@
+
+.. PDAP-Docs documentation master file, created by
+   sphinx-quickstart on Sat Apr  3 14:22:14 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+===================================================================
+Welcome to Documentation for the Police Data Accessibility Project!
+===================================================================
+
+.. toctree::
+   :maxdepth: 3
+   :hidden:
+
+   /data_access/index
+   /data_collection/index
+   /data_standardization/index
+   /data_storage/index
+   /legal/index
+   /meta/index
+   /tools/index
+   /volunteers/index
+
+The Police Data Accessibility Project (PDAP) aims to be a source of truth for police data.
+
+There are two major places to contribute: **data collection & processing** and **coding to automate those two things**.
+
+
+You may find our main website `here <https://pdap.io/>`_.
+
+How to get involved:
+====================
+1. **Find a task!**
+
+   - :doc:`Write a data scraper </volunteers/resources/always_open_tasks/pdap-a2>`
+   - :doc:`Collect police data directly </volunteers/resources/always_open_tasks/pdap-a1>`
+   - `Work an open Jira infrastructure issue <https://pdap.atlassian.net/issues/?filter=10012>`_
+   - `Work an open SQL database issue <https://www.dolthub.com/repositories/pdap/datasets/issues>`_
+
+2. Complete the `Intake Form <https://docs.google.com/forms/d/13HiD4CNTq8DOlwQtbIw2CfSjjDlveBpwxr7LRtcKeIo/edit?usp=sharing>`_ so we know what you plan to work on.
+3. Head to **#volunteer-start** in `Slack <https://join.slack.com/t/policeaccessibility/shared_invite/zt-ial0bvnm-D_T7R6za4aKh1f9jGUM0pg>`_ to say hello. Slack is where you can ask questions related to what you’re working on, make suggestions, and join the PDAP community.
