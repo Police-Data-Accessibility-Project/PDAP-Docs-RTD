@@ -73,4 +73,7 @@ rst_prolog = """
 .. role:: highlight-yellow
 .. role:: highlight-green
 .. role:: subheader
+.. role:: shell(code)
+  :language: shell
+  :class: highlight
 """
