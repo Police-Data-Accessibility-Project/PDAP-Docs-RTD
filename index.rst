@@ -38,7 +38,7 @@ How to get involved:
    - :doc:`Write a data scraper </volunteers/resources/always_open_tasks/pdap-a2>`
    - :doc:`Collect police data directly </volunteers/resources/always_open_tasks/pdap-a1>`
    - `Work an open Volunteer Task <https://pdap.atlassian.net/issues/?filter=10016>`
-   - `Work an open Infrastructure issue <https://pdap.atlassian.net/issues/?filter=10014`_
+   - `Work an open Infrastructure issue <https://pdap.atlassian.net/issues/?filter=10014>`_
    - `Work an open SQL database issue <https://www.dolthub.com/repositories/pdap/datasets/issues>`_
 
 2. Complete the `Intake Form <https://docs.google.com/forms/d/13HiD4CNTq8DOlwQtbIw2CfSjjDlveBpwxr7LRtcKeIo/edit?usp=sharing>`_ so we know what you plan to work on.
