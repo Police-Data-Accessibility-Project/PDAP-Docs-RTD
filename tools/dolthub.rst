@@ -1,6 +1,6 @@
-=======
-Dolthub
-=======
+==================
+Dolthub - Database
+==================
 ..
 
     *This is how we keep our data stream safe and accurate.*
