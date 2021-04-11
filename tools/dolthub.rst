@@ -8,7 +8,7 @@ Dolthub - Database
 Getting Started with Dolthub
 ============================
 The instructions `here
-<https://docs.dolthub.com/dolthub/getting-started>`_. are excellent. Here’s our `dolt org <https://www.dolthub.com/organizations/pdap>`_.
+<https://docs.dolthub.com/dolthub/getting-started>`_ are excellent. Here’s our `dolt org <https://www.dolthub.com/organizations/pdap>`_.
 
 Generally, Dolt is used to make changes to PDAP. Anyone can create a Pull Request to be merged into the database via the SQL UI at DoltHub, command line, `SQL editor integration <https://github.com/dolthub/docs/blob/gitbook-dev/content/integrations/sql-editors.md>`_, or Python.
 
